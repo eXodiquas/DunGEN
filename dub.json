@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Timo Netzer"
+	],
+	"copyright": "Copyright © 2023, Timo Netzer",
+	"description": "Generates generic dungeons for pen and paper campaign uses.",
+	"license": "MIT",
+	"name": "dungen"
+}
